@@ -1,0 +1,636 @@
+{
+    "language":"fr",
+    "submitButton": "Enregistrer",
+    "cancelButton": "Fermer",
+    "yes": "Oui",
+    "no": "Non",
+    "login": "Se connecter",
+    "signOut": "Deconnexion",
+    "connectionError": "Mot de passe ou Identifiant incorrect",
+    "registerError": "l'utilisateur existe déjà",
+    "registerSuccess": "Votre inscription à été effectué avec succès, vous pouvez à présent vous connectez, vous serez rediriger vers l'acceuil dans quelques secondes...",
+    "forgotPassword": "Mot de passe oublier ?",
+    "dashboard": "Mon Dasboard",
+    "profile": "Mon Profil",
+    "monespace": "Espace Abonné",
+    "activate": "Activer",
+    "desactivate": "desactiver",
+    "accountCreationAdmin": "Création d'un compte administrateur",
+    "entermail": "Entrer votre email",
+    "requestcode":"Demande de reinitialisation",
+    "askingCode":"Confirmation du code",
+    "code":"Entrer le code reçu par mail",
+    "codeError":"Code incorrect, reéssayer", 
+    "ok":"ok",
+    "requestError":"Email incorrect ou utilisateur inexistant",
+    "resetPassword":"Réinitialiser votre mot de passe",
+    "resetSuccess": "Réinitialisation reussite",
+    "contactUsSuccess":"Message envoyé",
+    "contactUsError": "Erreur lors de l'envoie de votre message",
+    "deleteSuccess": "Utilisateur supprimé, vous serez rediriger",
+    "profil": "Profile",
+    "header1": {
+        "typeOfUser": {
+            "button1": "Particulier",
+            "button2": "Professionnel"
+        },
+        "loginForm": {
+            "input1": "Email",
+            "input2": "Mot de passe"
+        },
+        "language": {
+            "button1": "Fr",
+            "button2": "An"
+        },
+        "inscription": "S'inscrire"
+    },
+    "header2": {
+        "title": "Astor",
+        "nav": {
+            "navitem1": {
+                "title": "Un coup d'oeil"
+            },
+            "navitem2": {
+                "title": "Vidéoprotection",
+                "navitem2navitem1": "Nos offres: Thaad",
+                "navitem2navitem1P": "Nos offres",
+                "navitem2navitem2": "Télésurveillance"
+            },
+            "navitem3": {
+                "title": "Nos alarmes",
+                "navitem3navitem1": "Nos offres alarmes"
+            },
+            "navitem4": {
+                "title": "Comment ça marche ?",
+                "navitem4navitem1": "Comment devenir client ?",
+                "navitem4navitem2": "Comment ça marche ?"
+            },
+            "navitem5": {
+                "title": "Qui sommes-nous",
+                "navitem5navitem1": "Notre équipe",
+                "navitem5navitem2": "Rejoindre notre équipe"
+            },
+            "navitem6": {
+                "title": "Nous contacter"
+            }
+        },
+        "navProfessional": {
+            "navitem4":{
+                "title": "Business intelligent",
+                "navitem4navitem1": "360 dégrés"
+            },
+            "navitem5": {
+                "title": "Secteurs d'activités"
+            },
+            "navitem6": {
+                "title":"Partenaire",
+                "navitem6navitem1": "Notre réseau partenaire",
+                "navitem6navitem2": "Devenir partenaire"
+            },
+            "navitem7": {
+                "title": "Qui sommes-nous",
+                "navitem7navitem1": "Notre savoir-faire",
+                "navitem7navitem2": "Team",
+                "navitem7navitem3": "Carrière"
+            }
+        }
+    },
+    "footer": {
+        "column1": {
+            "title": "Offres",
+            "description": [
+                "Particuliers",
+                "Professionnels"
+            ]
+        },
+        "column2": {
+            "title": "Comment ça marche",
+            "description": [
+                "Laissez vous guider de A à Z",
+                "Mon appli ASTOR PROTECT",
+                "Nos Caméras",
+                "Détecteur de fumée intelligent"
+            ]
+        },
+        "column3": {
+            "title": "Usager",
+            "description": [
+                "Sécuriser son domicile ",
+                "Solution anti-Cambriolage",
+                "Sécuriser son entreprise"
+            ]
+        },
+        "column4": {
+            "title": "Support",
+            "description": [
+                "Contacter- nous",
+                "FAQ"
+            ]
+        },
+        "column5": {
+            "title": "Qui sommes-nous",
+            "description": [
+                "L’entreprise",
+                "Avis client"
+            ]
+        },
+        "column6": {
+            "title": "Protection vie privée",
+            "description": [
+                "Condition générales de vente",
+                "Recrutement",
+                "Espace presse"
+            ]
+        }
+    },
+    "mainP":{
+        "slider1":{
+            "title":"Plateforme de Gestion Astor Protect",
+            "description":"Astor protect est bien plus qu’une plateforme de gestion sous cloud de la vidéoprotection et la télésurveillance, du contrôle d’accès. Nous offrons la meilleure solution pour une vidéosurveillance proactive, Pointeuse par la reconnaissance faciale et des analyses de business intelligence inédites dans les domaines : Magasins, Centres commerciaux, Autogare et Gare ferroviaire, Etablissement publics, Usines de fabrication, Ecole, Secteur bancaire, Bureaux et Immeuble, Hôtels, Hôpitaux et établissement de santé, Ports et chantiers navals, Dépôt pétrolier et station-service, Salles de spectacle et théâtres, Musées, établissement religieux, centres d’expositions et congrès."          
+        },
+        "slider2":{
+            "title": "Protection 24H sur 24 et 7 jours sur 7",
+            "description":"Assurez le plus haut niveau de sécurité sur 24h sur 24, 7 jour 7 avec la dernière technologie du marché en matière de sécurité. Grâce à l’analyse vidéo intelligente, à la vidéosurveillance proactive et à distance. La solution d’envoie des notifications en temp réel lorsque quelque chose se passe, permettant ainsi une intervention des plus à toute situation"
+        },
+        "slider3":{
+            "title": "Le plus haut niveau de sécurité de vos données vidéos",
+            "description":"Vos données contenant vos preuves des d’intrusion ou d’agression ne peuvent plus ni être volées, ni en dommages sur plus. Nous garantissons ainsi le plus haut niveau de sécurité de vos données. Nous travaillons avec des centres de données Hautement sécurités basées dans chaque pays que nous couvrons."
+        },
+        "page1":{
+            "column1":{
+                "title":"Analyses sur demande",
+                "description":"Nous offrons une large palette d’analyse afin de rendre la sécurité proactive et données de vos différents domaines d’activité en leur rendant pertinent. Grâce au modèle de service, vous prouvez demande d’ajuster les fonctionnalités en tout temps et en fonction de vos besoins du moment vous payes seulement pour les analyses utilisées"
+            },
+            "column2":{
+                "title":"Intégration avec nos centres de surveillance des alarmes",
+                "description":"L’offre de télésurveillance ASTOR PROTECT est une solution efficace pour sécuriser votre domicile contre le vol en déléguant complètement votre sécurité à des opérateurs certifiés. Les caméras de surveillance sont reliées à un centre de télésurveillance qui traite toutes les alarmes et prend les mesures nécessaires pour vous protéger 24h/24 : faire intervenir immédiatement un agent de sécurité agréé et contacter les autorités compétences sur un numéro prioritaire. En complément de la télésurveillance, vous avez accès à tous les services de vidéosurveillance."
+            },
+            "column3":{
+                "title":"Déploiement d'un site unique a de multiples",
+                "description":"Notre solution est accessible et rentable autant pour un site ean une caméra que pour des entreprises internationales à sites multiples avec des centaines de caméras. Notre modèle de service permet une adaptation totale du déploiement."
+            }
+        },
+        "page2":{
+            "introduction":{
+                "title": "Smart Physical Protection",
+                "description":{
+                    "title": "La sécurité au coeur de votre entreprise",
+                    "item":"ASTOR PROTECT a créé des offres de sécurité physique sur le cloud. Ces services s'appliquent sur le contrôle de présence et la vidéosurveillance. Nous permettons aux systèmes de sécurité de devenir plus fiables, plus sécurisés, plus agiles."
+                }
+            },
+            "items":["Contactez-nous","Vidéoprotection Surveillez vos locaux","Solution temps de présence","Flexible Pour s’adapter à l’évolution de chaque client","Compétences transversales En IT, courant faible et gestion de projet","Une vision long terme De nos clients dans notre entreprise"]
+        }
+    },
+    "main": {
+        "slider1": {
+            "title": "Humain Détecté",
+            "item1":"Une solution intelligente de vidéosurveillance et de télésurveillance pour une sérénité au quotidien",
+            "item2":"Service innovant de vidéoprotections et de télésurveillance dès 12500.-CFA par moi"
+        },
+        "slider2": {
+            "title": "Des appartements de haut standing"
+        },
+        "slider3": {
+            "title": "Des dispositifs concus rien que pour vous"
+        },
+        "page2": {
+            "column1": {
+                "title": "Détecteur de fumée intelligent",
+                "description": "En cas d'incendie, le Détecteur de Fumée intelligent déclenche une alarme de 85 dB et envoie une alerte en temps réel à notre centre de télésurveillance et ceux des membres de votre famille, où que vous soyez."
+            },
+            "column2": {
+                "title": "Distinction des formes",
+                "description": "Détection intelligente avec analyse d’images les caméras avec détecteur de mouvement sont munies d’une technologie de reconnaissance de formes qui permet de reconnaître les humains, les animaux, les voitures des autres mouvements. Finies les fausses détections avec notre technologie avancée de détection. Compatible avec les animaux de compagnie et le bruit ambiant en extérieur."
+            },
+            "column3": {
+                "title": "Télésurveillance",
+                "description": "Une gestion en temps réel des alertes par le centre de télésurveillance Traitement des alertes entre 30 et 80 secondes Vous pouvez vous absenter l’esprit tranquille ! Tout événement inhabituel génère une alerte au centre de télésurveillance 24h/24 et 7J/7 pour identifier la cause du déclenchement : tentative d’effraction par un cambrioleur, déclenchement du détecteur de mouvement, de fumée, de CO2 ou déconnexion des caméras de surveillance."
+            }
+        },
+        "page3": {
+            "introduction": {
+                "title": "Dépliant Alarme intrusion pour les particuliers ",
+                "description":[
+                    {"title": " Alarmes intrusion",
+                    "item": "Protégez les personnes et les biens avec un système de sécurité sur lequel vous pouvez compter. Des installations les plus simples aux projets les plus complexes, nous proposons des solutions intégrées qui reposent sur une technologie qui a fait ses preuves et un support technique hors pair."},
+                   
+                    {"title": "Un dispositif complet et personnalisé pour lutter contre les cambriolages",
+                    "item": "  Conseil Un diagnostic de sécurité personnalisé à votre domicile.Installation et entretien du système d'alarme par des professionnels."}
+                ]
+                
+            },
+            "table1":{
+                "title": "Olama",
+                "price": "14500 Fcfa/mois",
+                "items": ["Mise à disposition d'un système d'alarme connecté", "Contrôle à distance du matériel et maintenance ","Télésurveillance 24h/24 et 7j/7 par les centres de surveillance","Touche alerte agression","Appel de contrôle en moins de 30 secondes et information immédiate de l'abonné","Contrôle à distance ! Pilotage par smartphone, tablette ou ordinateur","100% respect de la vie privée","L’espace abonné avec gestion des droits d’accès","Mycloud 5 GB","1 Centrale d'alarme GSM (3G) / GPRS avec interphone","2 Détecteurs de mouvements intérieurs ","1 Détecteur de chocs ","3 Badges d'accès intelligents","5 Consommables inclus"]
+            },
+            "table2": {
+                "title": "Olama Premium",
+                "price": "38500 Fcfa/mois",
+                "items": ["Mise à disposition d'un système d'alarme connecté", "Contrôle à distance du matériel et maintenance ","Télésurveillance 24h/24 et 7j/7 par les centres de surveillance","Touche alerte agression","Appel de contrôle en moins de 30 secondes et information immédiate de l'abonné","Contrôle à distance ! Pilotage par smartphone, tablette ou ordinateur","100% respect de la vie privée","L’espace abonné avec gestion des droits d’accès","Mycloud 10 GB","Intervention 4 fois par mois sur place d'un agent de sécurité","1 Centrale d'alarme GSM (3G) / GPRS avec interphone","2 Détecteurs de mouvements intérieurs ","1 Détecteur de mouvements extérieur","1 Détecteur de chocs et d'ouverture","2 Détecteur de fumée","3 Badges d'accès intelligents","1 Sirène intérieure indépendante","5 consommables inclus","1 Télécommande"]
+                
+            },
+            "table3": {
+                "title": "Olama Integala",
+                "price": "45000 Fcfa/mois",
+                "items": ["Mise à disposition d'un système d'alarme connecté", "Contrôle à distance du matériel et maintenance ","Télésurveillance 24h/24 et 7j/7 par les centres de surveillance","Touche alerte agression","Appel de contrôle en moins de 30 secondes et information immédiate de l'abonné","Contrôle à distance ! Pilotage par smartphone, tablette ou ordinateur","100% respect de la vie privée","L’espace abonné avec gestion des droits d’accès","Mycloud 20 GB","Intervention sur place d'un agent de sécurité en cas d'alarme ","Intervention des forces de l’ordre (en cas d’intrusion confirmée)","1 Centrale d'alarme GSM (3G) / GPRS avec interphone","1 Détecteur de mouvements intérieurs avec images, couleur et flash ","1 Détecteur de mouvements extérieurs","4 Détecteurs de mouvements intérieurs","2 Détecteur de chocs et d'ouverture","3 Détecteurs de fumées","6 Badges d'accès intelligents","1 Sirène intérieure indépendante","5 consommables inclus","2 Télécommandes"]
+                
+            }
+        },
+        "page4": {
+            "introduction": {
+                "title": "Des solutions de télésurveillance pour les Professionnels Conçues à 300% pour vos locaux d’entreprise" ,"description":"Chaque chef d’entreprise pense à assurer ses locaux, contre le vol, les intrusions, la malveillance, les accidents… Il a paru essentiel à votre assureur de vous permettre de renforcer votre protection, en agissant en amont sur la prévention et la réduction des risques, en vous offrant la possibilité de vous équiper d’un système d’alarme pour votre entreprise en partenariat avec ASTOR PROTECT, la télésurveillance n°1 des assureurs."
+               
+            },
+            "table2": {
+                "title": "Hyksos Premium",
+                "price": "70000 Fcfa",
+                "items": ["Mise à disposition d'un système d'alarme connecté", "Contrôle à distance du matériel et maintenance ","Télésurveillance 24h/24 et 7j/7 par les centres de surveillance","Touche alerte agression","Appel de contrôle en moins de 30 secondes et information immédiate de l'abonné","Gardé le Contrôle à distance ! Pilotage par smartphone, tablette ou ordinateur","100% respect de la vie privée","L’espace abonné avec gestion des droits d’accès","Mycloud 30 GB de stockage"," Intervention sur place d'un agent de sécurité en cas d'alarme","1 Centrale d'alarme GSM (3G) / GPRS avec interphone","6 Détecteurs de mouvements intérieurs ","2 Détecteur de mouvements extérieurs","3 Détecteur de chocs et d'ouverture","3 Détecteurs de fumées","8 Badges d'accès intelligents","1 Sirène intérieure indépendante","5 consommables inclus","2 Télécommandes"]
+                
+            },
+            "table3": {
+                "title": "Hyksos Integala",
+                "price": "100000 Fcfa",
+                "items": ["Mise à disposition d'un système d'alarme connecté", "Contrôle à distance du matériel et maintenance ","Télésurveillance 24h/24 et 7j/7 par les centres de surveillance","Touche alerte agression","Appel de contrôle en moins de 30 secondes et information immédiate de l'abonné","Gardé le Contrôle à distance ! Pilotage par smartphone, tablette ou ordinateur","100% respect de la vie privée","L’espace abonné avec gestion des droits d’accès","Mycloud 50 GB de stockage"," Intervention sur place d'un agent de sécurité en cas d'alarme","Interventions des forces de l’ordre (en cas d’intrusion confirmée)","1 Centrale d'alarme GSM (3G) / GPRS avec interphone","2 détecteurs de mouvements intérieures avec images couleur et flash","4 Détecteurs de mouvements extérieurs","6-détecteurs de mouvements intérieurs","4 Détecteur de chocs et d'ouverture","6 Détecteurs de fumées","12 Badges d'accès intelligents","2 Sirènes intérieures indépendante","5 consommables inclus","6 Télécommandes"]
+                           
+            }
+        },
+        "page5": {
+            "introduction": {
+                "title": " Notre service 360 degré de Business Intelligence pour améliorer la performance commerciale de votre entreprise",
+                "description": "Exploitez les données vidéo recueillies par vos caméras pour booster vos ventes grâce à des analyses statistiques avancées. Votre infrastructure de sécurité pour améliorer l’expérience client au sein de votre point de vente et augmenter votre chiffre d’affaires."
+                
+            },
+            "column1":["Connaissance approfondie de la fréquentation clients de votre magasin","Nombre de clients visitant le point de vente à n’importe quel moment","Nombre de clients qui achètent ou qui n’achètent pas","Durée moyenne des visites","Mesure de l’efficacité des promotions et des campagnes marketing","Assurer l’intérêt et l’attractivité des promotions et des marques"],
+            "column2":["Analyse du succès des vitrines, des devantures et de l’aménagement des rayons","Diminution du temps d’attente des clients","Annonces et notifications automatiques lorsque la file d’attente dépasse sa limite","Nombre de clients dans la file d’attente à la caisse","Tendance de  la longueur des files d’attentes pour l’optimisation de la gestion du personnel","Mesurer l’efficacité des activités en magasin avec des ratios de conversion avancés"],
+            "column3":["Diminuer significativement les abandons d’achat dus à une trop longue file d’attente","Connaissance des zones clé du magasin pour améliorer la disposition des rayons","Zones de promotion et espaces de fréquentation ","Flux des clients et gestion des zones bloquantes","Intégration des données de caisse pour des analyses avancées","Adapter en tout temps la disposition des rayons pour optimiser les ventes"],
+            "table2":{
+                "title": "Vision 360",
+                "price": "75000 FCFA / Mois Frais d'abonnement et de mise en service : 60.000 FCFA",
+                "items": ["Vision en temps réel", "Détection intelligente d'humain ","Détection d'objets abandonnés","Reconnaissance automatique des plaques d'immatriculation","Détecteur de vagabondage","Surveillance à distance par la station télésurveillance","Enregistrement continue pendant 30 jours","Enregistrement sur détection pendant 30 jours ","Intervention 24/ 7 J Interventions sur place d’un agent de sécurité en illimité","Interventions des forces de l’ordre (en cas d’intrusion confirmée)","Périmètre virtuel d’alarme","Configuration d’un espace abonné avec gestion de droits d’accès","Lieu gardé pendant 24 heures","Mycloud 100 GB","Reconnaissance faciale","Notification sur adresse email","Notification par WhatsApp des extraits des vidéos","Notification de 10 SMS sur deux numéros par mois","Contrôle à distance ! Pilotage par Smartphone, tablette ou ordinateur.","10 Caméras intérieures ","4 Caméras extérieures","6 détecteurs de fumée"]
+            },
+            "table3":{
+                "title": "Vision 360 Premium",
+                "price": "55000 FCFA / Mois Frais d'abonnement et de mise en service : 60.000 FCFA",
+                "items": ["Vision en temps réel", "Détection intelligente d'humain ","Détection d'objets abandonnés","Détecteur de vagabondage","Surveillance par la station de télésurveillance","Détecteur de vagabondage","Surveillance à distance par la station télésurveillance","Enregistrement continue pendant 14 jours","Enregistrement sur détection pendant 30 jours ","Intervention 24/ 7 J Interventions sur place d’un agent de sécurité en illimité","Interventions des forces de l’ordre (en cas d’intrusion confirmée)","Périmètre virtuel d’alarme","L'espace abonné avec gestion de droits d’accès","Lieu gardé pendant 24 heures","Mycloud 50 GB","Reconnaissance faciale","Notification sur adresse email","Notification par WhatsApp des extraits des vidéos","Notification de 10 SMS sur deux numéros par mois","Contrôle à distance ! Pilotage par Smartphone, tablette ou ordinateur.","6 Caméras intérieures ","4 Caméras extérieures","6 détecteurs de fumées"]
+            }
+        }
+        
+    },
+    "videoprotectionP":{
+        "main":{
+            "slider1":{
+                "title": "CAMÉRAS DE VIDEOSURVEILLANCE IP",
+                "description":"Depuis quelques années, un engouement se crée autour du système de vidéosurveillance. Entrepôts, commerces, les caméras sont partout dans les entreprises. On assiste à une généralisation de ce dispositif de sécurité très prisé. Ce système de sécurité présente en effet de nombreux atouts. Contactez dès aujourd’hui un professionnel ASTOR PROTECT pour profiter d’un savoir-faire et d’une expérience incomparables. Nous nous chargeons de l’installation et de la maintenance de vos systèmes de vidéosurveillance"
+            }
+        },
+        "page2":{
+            "column1":{
+                "title":"Un fort pouvoir dissuasif",
+                "description":"En installant des caméras de vidéosurveillance, vous lancez à d’éventuels intrus un signal fort : votre site est sous protection. Ce dispositif de sécurité décourage bon nombre d’individus malveillants."
+            },
+            "column2":{
+                "title":"Gain de temps",
+                "description":"Les fonctions intelligentes de nos systèmes de vidéosurveillance vous permettent d'accéder directement à l'heure et au jour qui vous intéresse. Vous pouvez facilement exporter sur clé usb la ou les séquences de votre choix."
+            },
+            "column3":{
+                "title":"Vision 360°",
+                "description":"Placées dans des endroits stratégiques, nos caméras IP de vidéosurveillance fournissent une vision adaptée à chaque situation. Besoin d'un très grand angle, de visualiser un Couloir ou d'avoir une vue en 360°, tout est possible"
+            }
+        },
+        "page3":{
+            "column1":{
+                "title":"Détecteur de mouvements",
+                "description":"Nos caméras équipées de détecteur de mouvements démarrent automatiquement un enregistrement en cas de mouvements inhabituels"
+            },
+            "column2":{
+                "title":"Preuves juridiques",
+                "description":"En cas de conflit, les images filmées par vos caméras de surveillance constituent des preuves formelles quant à la culpabilité d’un suspect."
+            },
+            "column3":{
+                "title":"Vidéo Haute Définition",
+                "description":"Fonctionnelles de jour comme de nuit, les caméras STORI vous offrent une excellente définition d'image allant jusqu'à la 4K."
+            }
+        }
+    },
+    "videoprotection": {
+        "main": {
+            "slider1": {
+                "title": " Solution complète de vidéosurveillance et de télésurveillance pour la maison, une expertise sécurité partout au Cameroun"
+            },
+            "page2": {
+                "column1": {
+                    "title": "Thaad: Vidéosurveillance + Télésurveillance",
+                    "price": "12500CFA/mois",
+                    "description": [
+                        "Une caméra intérieure",
+                        "Un détecteur de fumée intelligente",
+                        "Vision en temps réel",
+                        "Détection intelligente d'humain",
+                        "Sirène d’alarme intérieure",
+                        "Vidéo d'alerte sauvegardée 30 jours",
+                        "Alertes vidéo traitées par le centre",
+                        "Reconnaissance faciale",
+                        "Notification sur deux adresse email",
+                        "Notification sur un numéro WhatsApp",
+                        "Notification sur un numéro par 5 SMS par mois"
+                    ],
+                    "button1": "Je demande mon dévis",
+                    "button2": "Je m'abonne en ligne"
+                },
+                "column2": {
+                    "title": "Thaad: Vidéosurveillance + Intervention",
+                    "description": [
+                        "Une caméra intérieure et une extérieure",
+                        "Un détecteur de fumée intelligente",
+                        "Vision en temps réel",
+                        "Détection intelligente d'humain",
+                        "Sirène d’alarme intérieure",
+                        "Vidéo d'alerte sauvegardée 30 jours",
+                        "Alertes vidéo traitées par le centre",
+                        "Intervention 24/7 d'un agent sur appel de votre part",
+                        "Levé du tout par un agent de sécurité",
+                        "Garder le lieu pendant 2 heures",
+                        "Reconnaissance faciale",
+                        "Notification sur trois adresse email",
+                        "Notification sur deux numéro WhatsApp",
+                        "Notification sur deux numéros de 10 SMS par mois"
+                    ]
+                },
+                "column3": {
+                    "title": "Thaad: Vidéosurveillance + Télésurveillance + Intervention",
+                    "description": [
+                        "Une caméra intérieure deux extérieure",
+                        "Un détecteur de fumée intelligente",
+                        "Vision en temps réel",
+                        "Intelligent human detection",
+                        "Sirène d’alarme intérieure",
+                        "Vidéo d'alerte sauvegardée 30 jours",
+                        "Alertes vidéo traitées par le centre",
+                        "Intervention 24/7 d'un agent en illimité sur appel du centre de télésurveillance",
+                        "Garder lieux pendants 3 heures",
+                        "Intervention par les forces de l'ordre",
+                        "Reconnaissance faciale",
+                        "Notification sur quatre adresse email",
+                        "Notification sur trois numéro WhatsApp",
+                        "Notification sur deux numéros de 20 SMS pas mois"
+                    ]
+                }
+            },
+            "page3": {
+                "title": "Découvrez comment fonctionne le service ASTOR PROTECT en cas d’effraction à votre domicile",
+                "column1": {
+                    "description": [
+                        "Je quitte ma maison et j'active le mode détection d'activité",
+                        "La présence d’un intrus est détectée",
+                        "La sirène d'alarme se déclenche",
+                        "Une vidéo s’enregistre et est disponible 30 jours sur votre espace client"
+                    ]
+                },
+                "column2": {
+                    "description": [
+                        "La station de surveillance reçoit les alertes",
+                        "Vous déléguez votre sécurité à des professionnels tout en gardant accès aux services de vidéosurveillance"
+                    ]
+                },
+                "column3": {
+                    "description": [
+                        "Le centre effectue la levée de doute",
+                        "Le centre de télésurveillance traite l'alerte, 24h/24 et 7J/7, et effectue la levée de doute vidéo en temps réel"
+                    ]
+                },
+                "column4": {
+                    "description": [
+                        "Le centre envoie un agent",
+                        "Si la levée de doute est positive ou si le doute persiste, le centre de télésurveillance envoie gratuitement un agent de sécurité agréé sur place"
+                    ]
+                },
+                "column5": {
+                    "description": [
+                        "L'effraction est avérée : Appel police prioritaire",
+                        "Le centre de télésurveillance contacte la police sur un numéro prioritaire pour intervenir au plus vite"
+                    ]
+                },
+                "column6": {
+                    "description": [
+                        "L'effraction est avérée : Garder lieux",
+                        "Le centre de télésurveillance vous prévient et envoie un agent pour garder votre domicile gratuitement pendant 3 heures"
+                    ]
+                }
+            },
+            "page4": {
+                "column1": {
+                    "title": "La vidéosurveillance intelligente avec reconnaissance d’humain",
+                    "description": "L’offre de vidéosurveillance Astor Protect est une solution qui vous permet de protéger votre domicile vous-même et d’interagir avec votre foyer à distance. Les caméras de surveillance vous alertent en temps réel en cas d’événement à votre domicile – comme une intrusion – et vous permettent de réagir très rapidement avec preuve vidéo à l’appui. L’application de vidéosurveillance ASTOR PROTECT vous donne tous les outils pour sécuriser de façon efficiente votre domicile, veiller à distance sur votre foyer et réagir rapidement."
+                },
+                "column2": {
+                    "title": "La télésurveillance 24h/24 nouvelle génération",
+                    "description": "L’offre de télésurveillance ASTOR PROTECT est une solution efficace pour sécuriser votre domicile contre le vol en déléguant complètement votre sécurité à des opérateurs certifiés. Les caméras de surveillance sont reliées à un centre de télésurveillance qui traite toutes les alarmes et prend les mesures nécessaires pour vous protéger 24h/24 : faire intervenir immédiatement un agent de sécurité agréé et contacter les autorités compétences sur un numéro prioritaire. En complément de la télésurveillance, vous avez accès à tous les services de vidéosurveillance."
+                }
+            }
+        }
+    },
+    "alarms": {
+        "page1": {
+            "title": "Avec la télésurveillance de nouvelle génération, ma maison est sous haute protection",
+            "button1": "Ma Maison",
+            "button2": "Mon Appartement",
+            "modals": {
+                "modal1": {
+                    "title": "Informations",
+                    "description": [
+                        {
+                           "title": "Disposer vous de plusieurs portes d'entrées ?",
+                            "img": "imgs/doors.jpg"
+                        },
+                        {
+                           "title": "Votre maison est elle en étages ?",
+                           "img" : "imgs/building.jpg"
+                        },
+                        {
+                           "title": " Si oui ces étages sont ils facilement accessible a partir de l’extérieure ?",
+                           "img": "imgs/building.jpg"
+                        },
+                        {
+                            "title": "Avez-vous un animal domestique de plus de 15kg ?",
+                            "img": "imgs/cat.jpg"
+                        },
+                        {
+                            "title": "Souhaitez-vous préserver votre maison des indécis ?",
+                            "img": "imgs/doors.jpg"
+                        },
+                        {
+                            "title":"Le réseau mobile d’au moins un opérateur téléphonique est-il bon chez vous ?",
+                            "img": "imgs/network.jpg"
+                        }
+                    ]
+                },
+                "validatingButton": "Y",
+                "cancelingButton": "N"
+            }
+        },
+        "page2": {
+            "title": "Pour protéger votre foyer, un système d'alarme connecté mis à disposition et installé par nos soins.",
+            "description": "ASTOR PROTECT a pensé et conçu un équipement de haute technologie pour assurer efficacement votre sécurité et celle de vos biens.Mais parce qu'être protégé ne veut pas dire bousculer son quotidien, nous vous proposons un matériel de télésurveillance efficace et discret. Sa mise à disposition, son installation et sa maintenance, y compris le changement des piles, sont incluses dans votre abonnement.",
+            "title1": "En cas d'intrusion, nous agissons immédiatement",
+            "description1": ["Le système d’alarme détecte et prend en photo l’intrus ; la sirène se déclenche et l’alarme est transmise au centre de surveillance ASTOR PROTECT","En moins de 30 secondes, nous procédons à un appel de contrôle", "Vous êtes informé et pouvez consulter les photos prises", "Si nécessaire, et selon formule, nous dépêchons un agent de sécurité agréé à votre domicile et alertons les forces de l’ordre"]
+        },
+        "page3": {
+            "table1":{
+                "title": "Olama Confort",
+                "price": "13120 Fcfa/month",
+                "items": ["Système d’alarme connecté", "Télésurveillance 24H/24, 7J/7","Contrôle à distance et maintenance","Gestion et pilotage par application mobile","Appel de contrôle en moins de 30 secondes","Information en cas de déclenchement"]
+            },
+            "table2": {
+                "title": "Olama Sérénité",
+                "price": "19680 Fcfa/month",
+                "items": ["Intervention d’un agent de sécurité et alerte des forces de l'ordre si nécessaire","Intervention d’un agent de sécurité et alerte des forces de l'ordre si nécessaire"]
+            }
+        }
+    },
+    "signUp": {
+        "description": "Astor Protect a pensé et conçu un équipement de haute technologie pour assurer efficacement votre sécurité et celle de vos biens.",
+        "form": {
+            "username": "Identifiant",
+            "firstName": "Prénoms",
+            "lastName": "Noms",
+            "email": "Email",
+            "phone" : "Téléphone",
+            "adresse": "Adresse",
+            "accountType": "Type de compte",
+            "visitor": "Visiteur",
+            "technician": "Service Technique",
+            "revendeur": "Compte revendeur",
+            "installateur": "Compte partenaire installateur",
+            "intervention": "Compte partenaire intervention",
+            "station": "Compte des agents de la station de surveillances",
+            "bc": "Compte client B&C",
+            "bb": "Compte client B&B",
+            "enterprise": "Nom de l'entreprise",
+            "identifiant": "Identifiant",
+            "password": "Mot de Passe",
+            "confirmPassword": "Confirmation du Mot de Passe",
+            "newPassword": "Nouveau Mot de Passe",
+            "lastPassword": "Ancien Mot de Passe",
+            "terms": [
+                "En vous inscrivant vous acceptez ",
+                "les termes et conditions & politique privée d'Astor"
+            ]
+        }
+    },
+    "howItWorks": {
+        "page1": {
+            "title": "Comment ça marche Astor Protect?",
+            "form": {
+                "title": "Mon diagnostic sécurité en 30 secondes",
+                "homeTypeLabel": "Que souhaitez-vous protéger ?",
+                "homeType1": "Votre villa",
+                "homeType2": "Votre appartement",
+                "detectionLabel": " En cas de détection d’évènement à votre domicile vous préférez ?",
+                "detection1": "Recevoir les alertes et vérifier en vidéo la cause du déclenchement",
+                "detection2": "Déléguer la sécurité de votre logement au centre de télésurveillance",
+                "internetLabel": " Le domicile est-il équipé d’internet ?",
+                "residenceLabel": "Quelle est la superficie de la résidence ?",
+                "residence1": "Moins de 100 m2",
+                "residence2": "Entre 100 m2 et 200 m2",
+                "residence3": "Entre 100 m2 et 200 m2",
+                "intervenantLabel": " Avez-vous intervenant au domicile (Nounou, femme de ménage…….) ?",
+                "cameraLabel": "Êtes -vous intéressé par des caméras et des détecteurs fumés intelligente ?",
+                "securityLabel": "Êtes -vous déjà équipé d’un système de sécurité ?"
+            },
+            "form2": {
+                "title": "Complétez vos informations",
+                "telephone": "Téléphone",
+                "sexe1": "Masculin",
+                "sexe2": "Féminin"
+            }
+        }
+    },
+    "telesurveillance": {
+        "page1": {
+            "title": "L’unique système de télésurveillance pour la maison incluant des caméras intelligentes et des détecteurs de fumé intelligentes.",
+            "button": "En Savoir Plus",
+            "popOver": {
+                "title": "En Savoir Plus",
+                "description": "La sécurité de votre domicile déléguée à un centre de télésurveillance, et les services de vidéosurveillance pour veiller à distance sur votre maison et interagir en vidéo et audio avec votre foyer à tout moment.ASTOR PROTECT à sa propre plateforme de télésurveillance pour le traitement des alertes anti-intrusion centre de télésurveillance basé en au Cameroun répond à tous les exigences de cette norme qui garantit la qualité des prestations contre l’intrusion."
+            }
+        },
+        "page2": {
+            "column1": {
+                "title": "Voir, entendre et parler",
+                "description": "Parce qu’il est important que vous puissiez garder le contrôle sur votre habitation, de jour comme de nuit, les caméras HD Astor Protect intègrent un micro et un haut-parleur vous permettent d’entendre et de discuter avec vos proches au sein du domicile.A tout moment vérifiez si votre alarme est active, et allumez-la à distance si nécessaire. Quand vous êtes à votre domicile, utilisez le mode intimité pour préserver votre vie privée."
+            },
+            "column2": {
+                "title": "Une gestion en temps réel des alertes par le centre de télésurveillance",
+                "description": "Traitement des alertes entre 30 et 80 secondes.Vous pouvez vous absenter l’esprit tranquille ! Tout événement inhabituel génère une alerte au centre de télésurveillance 24h/24 et 7J/7 pour identifier la cause du déclenchement : tentative d’effraction par un cambrioleur, déclenchement du détecteur de mouvement, de fumée, de CO2 ou déconnexion des caméras de surveillance.Dès réception d’une alerte, le centre de télésurveillance visionne les enregistrements automatiques de la vidéosurveillance pour analyser le contenu et réagir efficacement.Vous pouvez également décider de recevoir les alertes transmises au centre de télésurveillance directement sur votre compte ASTOR PROTECT."
+            },
+            "column3": {
+                "title": "Intervention d’un agent de sécurité en illimité à votre domicile",
+                "description": "Des départs d’agent sur le territoire. En cas d’effraction ou de doute, ASTOR PROTECT envoie un agent de sécurité à votre adresse pour vérifier le bon état des issues ou la présence d’un intrus. ASTOR PROTECT dispose du plus gros réseau d’agents de sécurité, comptant de plusieurs bases de départ sur le territoire, afin de vous faire bénéficier d’une intervention rapide d’un agent de sécurité.En votre absence, si l’effraction du domicile est avérée, le gardiennage des lieux est assuré pendant 3h, le temps pour vous de re-sécuriser le domicile"
+            },
+            "column4": {
+                "title": "Votre application mobile",
+                "description": "Fini les centrales d’alarme ! Retrouvez facilement tous vos événements en vidéo depuis votre application ou au sein de votre espace client. Les caméras sont intelligentes et savent reconnaître un humain, un animal et un véhicule pour une détection personnalisée et intelligente.Visualisez, téléchargez ou supprimez les enregistrements de votre vidéosurveillance très simplement.Contactez le centre de télésurveillance 24H/24 et 7J/7.Entrez en contact avec l’opérateur du centre de télésurveillance à tout moment."
+            },
+            "column5": {
+                "title": "Détecteur de Fumée Intelligent",
+                "description": "Des alertes sur votre smartphone et 10 ans de batterie* pour mieux protéger votre maison. En cas d'incendie, le Détecteur de Fumée Intelligent déclenche une alarme de 85 dB et envoie une alerte en temps réel sur votre smartphone et ceux des membres de votre famille, où que vous soyez.Vous pouvez toujours compter sur votre Détecteur de Fumée Intelligent Astor Protect. Contrairement aux détecteurs de fumée classiques, le Détecteur de Fumée Intelligent ASTOR PROTECT vous alerte en temps réel sur votre smartphone en cas d'incendie dans votre logement. Vous pouvez ainsi intervenir même lorsque vous n'êtes pas chez vous."
+            }
+
+        },
+        "page3": {
+            "step1":
+            {
+                "title": "Mon journal de bord",
+                "description": "Fini les centrales d’alarme ! Retrouvez facilement tous vos événements en vidéo depuis votre application ou au sein de votre espace client. Les caméras sont intelligentes et savent reconnaître un humain, un animal et un véhicule pour une détection personnalisée et intelligente."
+            },
+            "step2":
+            {
+                "title": "Gérez vos vidéos",
+                "description": "Visualisez, téléchargez ou supprimez les enregistrements de votre vidéosurveillance très simplement."
+            },
+            "step3": 
+            {
+                "title": "Contactez le centre de télésurveillance 24H/24 et 7J/7",
+                "description": "Entrez en contact avec l’opérateur du centre de télésurveillance à tout moment."
+            }
+        },
+        "page4":["Un abonnement tout compris système d'alarme connecté, maintenance et télésurveillance 24h/24","La rapidité d’action en cas d’alarme, appel de contrôle en moins de 30 secondes","Des professionnels de la sécurité intervention d’un agent de sécurité agréé et alerte des forces de l’ordre en cas d’alarme confirmée, selon formule"]
+    },
+    "contactUs": {
+        "column1": ["Astor Protect est présent sur l'ensemble des supports digitals connus","Nos locaux sont situés à ..."],
+        "form" : {
+            "email": "Votre adresse email",
+            "subject": "Sujet",
+            "username": "Nom d'utilisateur",
+            "content": "Laissez nous savoir vos quelconques besoins...",
+            "send" : "Envoyer"
+        }
+    },
+    "dashboardPage": {
+        "sideBar":{
+            "tableau":{
+                "title": "Tableau de bord",
+                "items": ["Gestion des comptes","Statistiques abonnées"]
+            },
+            "erp":{
+                "title": "Panel ERP"
+            }
+        }
+    },
+    "clientbc": {
+        "menu": {
+            "title1": "Espace de stockage videos",
+            "title2": "Abonnement & Vie Privée",
+            "title3": "Option"
+        },
+        "video": {
+            "name": "Nom de la video",
+            "date": "Date",
+            "save": "Enregistrer",
+            "rename": "Renommer",
+            "delete": "Supprimer",
+            "newname": "Nouveau Nom"
+        }
+    }
+}

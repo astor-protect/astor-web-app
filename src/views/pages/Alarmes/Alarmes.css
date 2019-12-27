@@ -1,0 +1,12 @@
+.carousel-control-next
+{
+  display:none;
+}
+.carousel-indicators
+{
+    margin:0;
+}
+.carousel-indicators li
+{
+    background-color: red;
+}

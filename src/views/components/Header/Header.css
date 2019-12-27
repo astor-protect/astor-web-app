@@ -1,0 +1,20 @@
+.connection_btn:hover
+{
+ border-color: red !important;
+}
+.form-control:focus, .btn:focus
+{
+    box-shadow:none;
+    outline: none;
+    border-color:red;
+}
+.menu_item:hover, .menu_item a:hover
+{
+    background-color: red;
+    color:white;
+    font-weight: bold;
+}
+.text_secondary
+{
+    color: red !important;
+}

@@ -1,0 +1,18 @@
+.account-info .btn-danger{
+    background-color: rgb(226, 7, 19);
+    color: white !important;
+}
+.account-info .account{
+    background-color: white;
+    padding: 2rem 1rem !important;
+}
+
+.table-bordered {
+    margin-bottom: 0 !important;
+}
+.payment-infos {
+    background-color: white;
+}
+.menu_item{
+    font-size: 14px;
+}

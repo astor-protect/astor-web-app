@@ -1,0 +1,9 @@
+.img_update:hover{
+    background-color: #fff;
+    opacity: 0.5;
+    background-blend-mode: multiply;
+    cursor: pointer;
+}
+.hand{
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.waitinlist-section table {
+    background-color: white;
+    border: solid 1px #eee;
+}
+
+.list-group a {
+    color: #555 !important;
+}
+
+#list-group .active {
+    color: red !important;
+    box-shadow: none !important;
+}
+
+.list-group li {
+    border-radius: 0 !important;
+}

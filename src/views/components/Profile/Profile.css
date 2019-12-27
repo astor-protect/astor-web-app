@@ -1,0 +1,16 @@
+.profile-section {
+    margin-top: 5rem;
+    padding: 6rem 0;
+}
+
+.profile-section .container-fluid{
+    width: 90%;
+}
+.profile-section .container-fluid .del-btn{
+    background-color: red;
+    color: white;
+    font-size: 12px;
+}
+.profile-section .container-fluid .btn{
+    background-color: red;
+}

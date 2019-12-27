@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="shortcut icon" href="./favicon.png"/>
+    <meta
+      name="description"
+      content="Astor Web Site"
+    />
+    <style>
+      #se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100vw;
+	height: 100vh;
+	z-index: 99999999;
+	background: url(./loader.gif) center no-repeat #fff;
+}
+    </style>
+    
+	<script src="statics/js/jquery-2.2.4.min.js" ></script>
+    <script>
+    const loaded = ()=>{
+     setTimeout(()=>$("#se-pre-con").fadeOut(),1000)
+    }
+    </script>
+	<!-- GOOGLE WEB FONT -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+
+	<!-- BASE CSS -->
+	<link href="statics/css/bootstrap.min.css" rel="stylesheet">
+	<link href="statics/css/style.css" rel="stylesheet">
+	<link href="statics/css/menu.css" rel="stylesheet">
+	<link href="statics/css/responsive.css" rel="stylesheet">
+	<link href="statics/css/elegant_font/elegant_font.min.css" rel="stylesheet">
+	<link href="statics/css/fontello/css/fontello.min.css" rel="stylesheet">
+	<link href="statics/css/magnific-popup.min.css" rel="stylesheet">
+
+	<!-- LayerSlider stylesheet -->
+	<link href="statics/layerslider/layerslider.css">
+	
+	<!-- SPECIFIC CSS -->
+	<link href="statics/skins/square/grey.css" >
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Astor le meilleur de la télésurveillance</title>
+  </head>
+  <body onload="loaded()">
+      <div id="se-pre-con"></div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+  <!-- Common scripts -->
+	<script src="statics/js/functions.js" ></script>
+
+	<!-- LayerSlider script files -->
+	<script src="statics/layerslider/js/greensock.js" ></script>
+	<script src="statics/layerslider/js/layerslider.transitions.js" ></script>
+	<script src="statics/layerslider/js/layerslider.kreaturamedia.jquery.js" > </script>
+	<script src="statics/js/slider_func.js" ></script>
+	<script src="statics/js/common_scripts_min.js" ></script>
+
+	<!-- Specific scripts -->
+	<script src="statics/js/jquery.validate.js" ></script>
+	<script src="statics/js/jquery.stepy.min.js" ></script>
+  <script src="statics/js/quotation-validate.js" ></script>
+
+</html>

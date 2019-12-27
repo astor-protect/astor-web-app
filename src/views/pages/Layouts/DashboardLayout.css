@@ -1,0 +1,27 @@
+.layout
+{
+    min-width: 1200px;
+    min-height:100vh;
+}
+.side_bar
+{
+    background-color: #f1e7e8;
+    min-height: 100vh;
+}
+.main_content
+{
+    
+    min-height: 100vh;
+}
+.side_font_size
+{
+    font-size: 1.1rem;
+}
+
+.layout a {
+    color: #555;
+}
+
+.side_bar .active{
+  font-weight: bold !important;
+}

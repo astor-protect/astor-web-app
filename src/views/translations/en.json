@@ -1,0 +1,636 @@
+{
+    "language":"en",
+    "submitButton": "Save",
+    "cancelButton": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "login": "Login",
+    "signOut": "Log out",
+    "connectionError": "Password or login is incorrect",
+    "registerError": "The user is already registered",
+    "registerSuccess": "Your inscription is successful, you can now log in, you will be redirect on the home in seconds...",
+    "forgotPassword": "Forgot password ?",
+    "dashboard": "My Dashboard",
+    "profile": "My Profile",
+    "monespace": "Client Space",
+    "activate": "Activate",
+    "desactivate": "Desactivate",
+    "accountCreationAdmin": "Administrator account creation",
+    "entermail": "Enter your mail",
+    "requestcode":"Reinitialisation request",
+    "askingCode":"Code confirmation",
+    "code":"Enter the code you received by mail",
+    "codeError":"Incorrect code, try again", 
+    "ok":"ok",
+    "requestError":"Invalid email or unexisting user",
+    "resetPassword":"Reset your password",
+    "resetSuccess": "Success reinitialisation",
+    "contactUsSuccess":"Message sent",
+    "contactUsError": "Error when sending the message",
+    "deleteSuccess": "User deleted, you will be redirected",
+    "profil": "Profil",
+    "header1": {
+        "typeOfUser": {
+            "button1": "Particular",
+            "button2": "Professional"
+        },
+        "loginForm": {
+            "input1": "Login",
+            "input2": "Password"
+        },
+        "language": {
+            "button1": "Fr",
+            "button2": "En"
+        },
+        "inscription": "Sign up"
+    },
+    "header2": {
+        "title": "Astor",
+        "nav": {
+            "navitem1": {
+                "title": "A glance"
+            },
+            "navitem2": {
+                "title": "Videoprotection",
+                "navitem2navitem1": "Our offers",
+                "navitem2navitem2": "Remote monitoring"
+            },
+            "navitem3": {
+                "title": "Our alarms",
+                "navitem3navitem1": "Our alarm offers"
+            },
+            "navitem4": {
+                "title": "How it works?",
+                "navitem4navitem1": "How to become our customer",
+                "navitem4navitem2": "How it works"
+            },
+            "navitem5": {
+                "title": "Who are we",
+                "navitem5navitem1": "Our team",
+                "navitem5navitem2": "Join Us"
+            },
+            "navitem6": {
+                "title": "Contact Us"
+            }
+        },
+        "navProfessional": {
+            "navitem4":{
+                "title": "Business intelligent",
+                "navitem4navitem1": "360 degrees"
+            },
+            "navitem5": {
+                "title": "Sectors"
+            },
+            "navitem6": {
+                "title":"Partners",
+                "navitem6navitem1": "Our partner network",
+                "navitem6navitem2": "Become partners"
+            },
+            "navitem7": {
+                "title": "Who are we",
+                "navitem7navitem1": "Our expertise",
+                "navitem7navitem2": "Team",
+                "navitem7navitem3": "Carreers"
+            }
+        }
+    },
+    "footer": {
+        "column1": {
+            "title": "Offers",
+            "description": [
+                "Particular",
+                "Professionals"
+            ]
+        },
+        "column2": {
+            "title": "How it works",
+            "description": [
+                "Let us guide you from A to Z",
+                "My Astor Protect App",
+                "Our cameras",
+                "Smart smoke detector"
+            ]
+        },
+        "column3": {
+            "title": "Usage",
+            "description": [
+                "Secure your home",
+                "Anti-Burglary Solution",
+                "Secure your enterprise"
+            ]
+        },
+        "column4": {
+            "title": "Support",
+            "description": [
+                "Contact Us",
+                "FAQ"
+            ]
+        },
+        "column5": {
+            "title": "Who are we",
+            "description": [
+                "The enterprise",
+                "Customer reviews"
+            ]
+        },
+        "column6": {
+            "title": "Privacy protection",
+            "description": [
+                "General conditions of sale",
+                "Recruitement",
+                "Press area"
+            ]
+        }
+    },
+    "mainP":{
+        "slider1":{
+            "title":" Astor Protect Management Platform",
+            "description":"Astor protect is much more than a cloud management platform for video surveillance and remote monitoring, access control. We offer the best solution for proactive video surveillance, Pointer by facial recognition and unprecedented business intelligence analyzes in the areas: Stores, Shopping centers, Autogare and Railway Station, Public Establishments, Manufacturing plants, School, Banking Sector, Offices and Building, Hotels, Hospitals and Healthcare Facility, Ports and Shipyards, Petroleum depot and service station, Theaters and theaters, Museums, religious institutions, exhibition centers and congresses."
+        },
+        "slider2":{
+            "title": "Protection 24 hours a day, 7 days a week",
+            "description":"Ensure the highest level of security on 24/7 with the latest technology in the security market. Through intelligent video analysis, proactive and remote video surveillance. The solution sends notifications in real time when something happens, allowing a more intervention to any situation"
+        },
+        "slider3":{
+            "title": "The highest level of security of your video data",
+            "description":"Your data containing your evidence of intrusion or aggression can not be stolen or damaged. We guarantee the highest level of security of your data. We work with highly secure data centers based in each country we cover."
+        },
+        "page1":{
+            "column1":{
+                "title":"Analysis on request",
+                "description":"We offer a wide range of analysis to make proactive security and data of your different business areas by making them relevant. Thanks to the service model, you can apply to adjust the features at any time and according to your needs of the moment you only pay for the analyzes used"
+            },
+            "column2":{
+                "title":"Integration with our alarm monitoring centers",
+                "description":"The ASTOR PROTECT remote monitoring offer is an effective solution for securing your home against theft by completely delegating your security to certified operators. The surveillance cameras are connected to a central monitoring station that processes all the alarms and takes the necessary measures to protect you 24 hours a day: immediately contact an authorized security agent and contact the competent authorities on a priority number. In addition to remote monitoring, you have access to all CCTV services."
+            },
+            "column3":{
+                "title":"Deploying a single site to multiple",
+                "description":"Our solution is accessible and cost-effective for a camera site as well as for multi-site international companies with hundreds of cameras. Our service model allows a complete adaptation of the deployment."
+            }
+        },
+        "page2":{
+            "introduction":{
+                "title": "Smart Physical Protection",
+                "description":{
+                    "title": "Security at the heart of your business",
+                    "item":"ASTOR PROTECT has created cloud physical security offerings. These services apply to presence control and video surveillance. We enable security systems to become more reliable, more secure, more agile."
+                }
+            },
+            "items":["Contact-Us","Videoprotection Monitor your premises","Solution presence time","Flexible To adapt to the evolution of each client","Cross-curricular skills In IT, low current and project management","A long-term vision of our customers in our company"]
+        }
+    },
+    "main": {
+        "slider1": {
+            "title": "Human Detected",
+            "item1":"An intelligent video surveillance and remote surveillance solution for everyday peace of mind",
+            "item2":"Innovative videoprotection and telemonitoring service from 12500.-CFA by me"
+        },
+        "slider2": {
+            "title": "Luxury apartements"
+        },
+        "slider3": {
+            "title": "Devices designed just for you"
+        },
+        "page2": {
+            "column1": {
+                "title": "Smart smoke detector",
+                "description": "In case of fire, the Intelligent Smoke Detector triggers an alarm of 85 dB and sends a real-time alert to our monitoring center and those of your family members, wherever you are."
+            },
+            "column2": {
+                "title": "Distinction of forms",
+                "description": "Intelligent Detection with Image Analysis Motion-sensing cameras are equipped with a pattern recognition technology that recognizes humans, animals, cars and other movements. No more false detections with our advanced detection technology. Compatible with pets and outdoor ambient noise. Intelligent Sensing with Image Analysis Motion Detection Cameras are equipped with a pattern recognition technology that recognizes humans, animals, cars of others movements. No more false detections with our advanced detection technology. Compatible with pets and outdoor ambient noise."
+            },
+            "column3": {
+                "title": "Remote monitoring",
+                "description": "Real-time management of alerts by the remote monitoring center Processing alerts between 30 and 80 seconds You can leave the peace of mind! Any unusual event generates an alert at the central monitoring station 24/7 to identify the cause of the trigger: attempted break-in by a burglar, triggering the motion detector, smoke, CO2 or disconnection of surveillance cameras."
+            }
+        },
+        "page3": {
+            "introduction": {
+                "title": "Alarm intrusion leaflet for individuals",
+                "description":[
+                    {"title": " Intrusion alarms",
+                    "item": "Protect people and property with a security system you can rely on. From the simplest installations to the most complex projects, we offer integrated solutions based on proven technology and unparalleled technical support."},
+                   
+                    {"title": "A complete and personalized device to fight burglaries",
+                    "item": "Advice A personalized security diagnosis at your home.Installation and maintenance of the alarm system by professionals."}
+                ]
+                
+            },
+            "table1":{
+                "title": "Olama",
+                "price": "14500 Fcfa/month",
+                "items": ["Provision of a connected alarm system", "Remote control of equipment and maintenance ","24/7 remote surveillance by monitoring centers","Aggression alert button","Control call in less than 30 seconds and immediate information of the subscriber","Remote control ! Control by smartphone, tablet or computer","100% respect for privacy","Subscriber space with access rights management","Mycloud 5 GB","1 GSM (3G) / GPRS alarm center with intercom","2 Interior motion detectors","1 Shock detector ","3 Smart Access Badges","5 Consumables included"]
+            },
+            "table2": {
+                "title": "Olama Premium",
+                "price": "38500 Fcfa/month",
+                "items": ["Provision of a connected alarm system", "Remote control of equipment and maintenance","24/7 remote surveillance by monitoring centers","Aggression alert button","Control call in less than 30 seconds and immediate information of the subscriber","Remote control ! Control by smartphone, tablet or computer","100% respect for privacy","Subscriber space with access rights management","Mycloud 10 GB","Intervention 4 times per month on the spot of a security agent","1 GSM (3G) / GPRS alarm center with intercom","2 Interior motion detectors ","1 Outdoor motion detector","1 Shock and opening detector","2 Smoke detector","3 Smart Access Badges","1 independent indoor siren","5 Consumables included","1 Remote control"]
+                
+            },
+            "table3": {
+                "title": "Olama Integala",
+                "price": "45000 Fcfa/month",
+                "items": ["Provision of a connected alarm system", "Remote control of equipment and maintenance","24/7 remote surveillance by monitoring centers","Aggression alert button","Control call in less than 30 seconds and immediate information of the subscriber","Remote control ! Control by smartphone, tablet or computer","100% respect for privacy","Subscriber space with access rights management","Mycloud 20 GB","On-site intervention of a security officer in the event of an alarm ","Intervention of the police (in case of confirmed intrusion)","1 GSM (3G) / GPRS alarm center with intercom","1 motion detector with images, color and flash ","1 Outdoor motion detector","4 Interior motion detectors","2 Shock and opening detector","3 Smoke detectors","6 Smart Access Badges","1 independent indoor siren","5 consumables included","2 Remote controls"]
+                
+            }
+        },
+        "page4": {
+            "introduction": {
+                "title": "Remote monitoring solutions for Professionals Designed at 300% for your business premises" ,"description":"Each company manager thinks of insuring his premises, against theft, intrusions, malevolence, accidents ... It seemed essential to your insurer to allow you to strengthen your protection, by acting upstream on the prevention and reduction of risks, by offering you the possibility of equipping you with an alarm system for your company in partnership with ASTOR PROTECT, the # 1 telesurveillance of insurers."
+               
+            },
+            "table2": {
+                "title": "Hyksos Premium",
+                "price": "70000 Fcfa",
+                "items": ["Provision of a connected alarm system", "Remote control of equipment and maintenance","24/7 remote surveillance by monitoring centers","Aggression alert button","Control call in less than 30 seconds and immediate information of the subscriber","Remote control ! Control by smartphone, tablet or computer","100% respect for privacy","Subscriber space with access rights management","Mycloud 30 GB de stockage"," On-site intervention of a security officer in the event of an alarm","1 GSM (3G) / GPRS alarm center with intercom","6 Interior motion detectors ","2 Outdoor motion detector","3 Shock and opening detector","3 Smoke detectors","8 Smart Access Badges","1 independent indoor siren","5 consumables included","2 Remote controls"]
+                
+            },
+            "table3": {
+                "title": "Hyksos Integala",
+                "price": "100000 Fcfa",
+                "items": ["Provision of a connected alarm system", "Remote control of equipment and maintenance","24/7 remote surveillance by monitoring centers","Aggression alert button","Control call in less than 30 seconds and immediate information of the subscriber","Remote control ! Control by smartphone, tablet or computer","100% respect for privacy","Subscriber space with access rights management","Mycloud 50 GB de stockage","On-site intervention of a security officer in the event of an alarm","Interventions by the police (in case of confirmed intrusion)","1 GSM (3G) / GPRS alarm center with intercom","2 interior motion detectors with color and flash images","4 External motion detectors","6 interior motion detectors","4 Shock and opening detector","6 Smoke detectors","12 Smart Access Badges","2 independent indoor sire","5 consumables included","6 Remote controls"]
+                           
+            }
+        },
+        "page5": {
+            "introduction": {
+                "title": "Our 360 degree Business Intelligence service to improve the business performance of your business",
+                "description": "Leverage the video data collected by your cameras to boost your sales with advanced statistical analysis. Your security infrastructure to improve the customer experience within your point of sale and increase your revenue."
+                
+            },
+            "column1":["In-depth knowledge of your store's customer traffic","Number of customers visiting the point of sale at any time","Number of customers who buy or do not buy","Average length of visits","Measuring the effectiveness of promotions and marketing campaigns","Ensure the interest and attractiveness of promotions and brands"],
+            "column2":["Analysis of the success of showcases, storefronts and shelf layout","Reduced customer waiting time","Automatic announcements and notifications when the queue exceeds its limit","Number of customers in queue at checkout","Trend in the length of queues for optimizing staff management","Measure the efficiency of in-store activities with advanced conversion ratios"],
+            "column3":["Significantly reduce buy-outs due to too long a queue","Knowledge of key store areas to improve shelf layout","Promotion zones and spaces of attendance ","Customer flow and blocking zone management","Integrate cash data for advanced analytics","Adapt department layout at all times to optimize sales"],
+            "table2":{
+                "title": "Vision 360",
+                "price": "75000 FCFA / Month Subscription and commissioning fees : 60.000 FCFA",
+                "items": ["Real-time vision", "Intelligent human detection ","Detection of abandoned objects","Automatic recognition of license plates","Vagrancy detectore","Remote monitoring by the remote station","Continuous recording for 30 days","Recording on detection for 30 days ","Intervention 24/7 J On-site interventions by an unlimited security guard","Interventions by the police (in case of confirmed intrusion)","Virtual perimeter of alarm","Configuring a subscriber space with access rights management","Place kept for 24 hours","Mycloud 100 GB","Facial Recognition","Notification on email address","WhatsApp notification of video clips","Notification of 10 SMS on two numbers per months","Remote control ! Smartphone, tablet or computer control.","10 Indoor cameras ","4 Outdoor cameras","6 smoke detectors"]
+            },
+            "table3":{
+                "title": "Vision 360 Premium",
+                "price": "55000 FCFA / Month Subscription and commissioning fees : 60.000 FCFA",
+                "items": ["Real-time vision", "Intelligent human detection ","Detection of abandoned objects","Vagrancy detector","Monitoring by the monitoring station","Vagrancy detector","Remote monitoring by the remote station","Continuous recording for 14 days","Recording on detection for 30 days ","Intervention 24/7 J on-site of an unlimited security agent","Intervention 24/7 J On-site interventions by an unlimited security guard","Virtual perimeter of alarm","Subscriber space with access rights management","Place kept for 24 hours","Mycloud 50 GB","Facial Recognition","Notification on email address","WhatsApp notification of video clips","Notification of 10 SMS on two numbers per month","Remote control ! Smartphone, tablet or computer control.","6 Indoor cameras ","4 Outdoor cameras","6 smoke detectors"]
+            }
+        }
+
+    },
+    "videoprotectionP":{
+        "main":{
+            "slider1":{
+                "title": "IP VIDEOSURVEILLANCE CAMERAS",
+                "description":"In recent years, a craze is created around the video surveillance system. Warehouses, shops, cameras are everywhere in businesses. We are witnessing a generalization of this very popular safety device. This security system has many advantages. Contact an ASTOR PROTECT professional today to benefit from incomparable know-how and experience. We take care of the installation and maintenance of your CCTV systems"
+            }
+        },
+        "page2":{
+            "column1":{
+                "title":"A strong dissuasive power",
+                "description":"By installing CCTV cameras, you give potential intruders a strong signal: your site is under protection. This security feature discourages many malicious individuals."
+            },
+            "column2":{
+                "title":"Time saving",
+                "description":"The intelligent features of our video surveillance systems give you direct access to the time and day of your interest. You can easily export on the usb key the sequence (s) of your choice."
+            },
+            "column3":{
+                "title":"360 ° vision",
+                "description":"Placed in strategic places, our IP CCTV cameras provide a vision adapted to each situation. Need a very wide angle, to visualize a Corridor or to have a 360 ° view, everything is possible"
+            }
+        },
+        "page3":{
+            "column1":{
+                "title":"Motion detector",
+                "description":"Our cameras equipped with motion detector automatically start a recording in case of unusual movements"
+            },
+            "column2":{
+                "title":"Legal evidence",
+                "description":"In case of conflict, the images filmed by your surveillance cameras are formal proof of the guilt of a suspect."
+            },
+            "column3":{
+                "title":"High Definition Video",
+                "description":"Functional day and night, STORI cameras offer you an excellent image definition up to 4K."
+            }
+        }
+        
+    },
+    "videoprotection": {
+        "main": {
+            "slider1": {
+                "title": "Complete video surveillance and remote surveillance solution for the home, a security expertise throughout Cameroon"
+            },
+            "page2": {
+                "column1": {
+                    "title": "Video Surveillance + Remote Monitoring",
+                    "price": "12500CFA/months",
+                    "description": [
+                        "An indoor camera",
+                        "An intelligent smoke detector",
+                        "Real-time vision",
+                        "Intelligent human detection",
+                        "Indoor alarm siren",
+                        "Alert video saved 30 days",
+                        "Video alerts processed by the center",
+                        "Facial Recognition",
+                        "Notification on two email addresses",
+                        "Notification on a WhatsApp number",
+                        "Notification on a number per 5 SMS per month"
+                    ],
+                    "button1": "Ask for my free estimate",
+                    "button2": "I subscribe online"
+                },
+                "column2": {
+                    "title": "Video Surveillance + Remote Monitoring",
+                    "description": [
+                        "An indoor camera and an outdoor",
+                        "An intelligent smoke detector",
+                        "Real-time vision",
+                        "Intelligent human detection",
+                        "Indoor alarm siren",
+                        "Alert video saved 30 days",
+                        "Video alerts processed by the center",
+                        "24/7 intervention of an agent on call from you",
+                        "Remove doubt from a security guard",
+                        "Keep the place for 2 hours",
+                        "Facial Recognition",
+                        "Notification on three email addresses",
+                        "Notification on two WhatsApp number",
+                        "Notification on two numbers of 10 SMS per months"
+                    ]
+                },
+                "column3": {
+                    "title": "Video Surveillance + Remote Monitoring + Intervention",
+                    "description": [
+                        "An indoor two outdoor camera",
+                        "An intelligent smoke detector",
+                        "Real-time vision",
+                        "Intelligent human detection",
+                        "Indoor alarm siren",
+                        "Alert video saved 30 days",
+                        "Video alerts processed by the center",
+                        "24/7 intervention of an unlimited agent on call from the central monitoring station",
+                        "Keep places for 3 hours",
+                        "Intervention by the police",
+                        "Facial Recognition",
+                        "Notification on four email addresses",
+                        "Notification on three WhatsApp number",
+                        "Notification on two numbers of 20 SMS per months"
+                    ]
+                }
+            },
+            "page3": {
+                "title": "Discover how the Astor Protect service works in the event of a break in your home",
+                "column1": {
+                    "description": [
+                        "I leave my house and activate activity detection mode",
+                        "The presence of an intruder is detected",
+                        "The alarm siren goes off",
+                        "A video is registered and is available 30 days on your customer area"
+                    ]
+                },
+                "column2": {
+                    "description": [
+                        "The monitoring stations receive the alerts",
+                        "You delegate your security to professionals while keeping access to video surveillance services"
+                    ]
+                },
+                "column3": {
+                    "description": [
+                        "The center raises doubt",
+                        "The central monitoring station processes the alert, 24/7, and carries out the video doubt in real time"
+                    ]
+                },
+                "column4": {
+                    "description": [
+                        "The center sends an agent",
+                        "If the doubt is positive or if the doubt persists, the monitoring center sends an authorized safety officer on site free of charge."
+                    ]
+                },
+                "column5": {
+                    "description": [
+                        "The break-in is proven: Priority police call",
+                        "The remote monitoring center contacts the police on a priority number to intervene as quickly as possible"
+                    ]
+                },
+                "column6": {
+                    "description": [
+                        "Burglary is proven: Keeping places",
+                        "The central monitoring station warns you and sends an agent to keep your home free for 3 hours"
+                    ]
+                }
+            },
+            "page4": {
+                "column1": {
+                    "title": "Intelligent video surveillance with human recognition",
+                    "description": "The Astor Protect video surveillance offer is a solution that allows you to protect your home yourself and interact with your home remotely. The surveillance cameras alert you in real time in case of an event at your home - as an intrusion - and allow you to react very quickly with video evidence to support. The ASTOR PROTECT video surveillance application gives you all the tools to efficiently secure your home, remotely monitor your home and react quickly."
+                },
+                "column2": {
+                    "title": "24/7 next generation remote monitoring",
+                    "description": "The Astor Protect remote monitoring offer is an effective solution to secure your home against theft by completely delegating your security to certified operators. The surveillance cameras are connected to a central monitoring station that processes all the alarms and takes the necessary measures to protect you 24 hours a day: immediately contact an authorized security agent and contact the competent authorities on a priority number. In addition to remote monitoring, you have access to all CCTV services."
+                }
+            }
+        }
+    },
+    "alarms": {
+        "page1": {
+            "title": "With new generation remote monitoring, my house is under high protection",
+            "button1": "My Home",
+            "button2": "My apartment",
+            "modals": {
+                "modal1": {
+                    "title": "Informations",
+                    "description": [
+                        {
+                         "title" : "Do you have several entry doors ?",
+                         "img": "imgs/doors.jpg"
+                        },
+                        {
+                        "title": "Is your house upstairs ?",
+                        "img" : "imgs/building.jpg"
+                        },
+                        {
+                        "title":" If so, are these floors easily accessible from the outside ?",
+                        "img": "imgs/building.jpg"
+                        },
+                        {
+                        "title":"Do you have a pet over 15kg ?",
+                        "img": "imgs/cat.jpg"
+                        },
+                        {
+                        "title":"Do you want to preserve your home undecided ?",
+                        "img": "imgs/doors.jpg"
+                        },
+                        {
+                        "title":"Is the mobile network of at least one telephone company good at home ?",
+                        "img": "imgs/network.jpg"
+                        }
+                    ]
+                },
+                "validatingButton": "Y",
+                "cancelingButton": "N"
+            }
+        },
+        "page2": {
+            "title": "To protect your home, a connected alarm system made available and installed by us.",
+            "description": "ASTOR PROTECT has designed and designed high-tech equipment to effectively ensure your safety and that of your property. But because being protected does not mean shaking up your daily life, we offer you an effective and discreet remote monitoring equipment. Its provision, installation and maintenance, including the change of batteries, are included in your subscription.",
+            "title1": "In case of intrusion, we act immediately",
+            "description1": ["The alarm system detects and takes pictures of the intruder; the siren goes off and the alarm is transmitted to the ASTOR PROTECT monitoring center","In less than 30 seconds, we make a call for control", "You are informed and can consult the photos taken", "If necessary, and according to the formula, we send an authorized security agent to your home and alert the security forces"]
+        },
+        "page3": {
+            "table1":{
+                "title": "Olama Confort",
+                "price": "13120 Fcfa/month",
+                "items": ["Alarm system connected", "24/7 remote monitoring","Remote control and maintenance","Management and control by mobile application","Control call in less than 30 seconds","Information in case of tripping"]
+            },
+            "table2": {
+                "title": "Olama Sérénité",
+                "price": "19680 Fcfa/month",
+                "items": ["Intervention of a security officer and alert the police if necessary","Intervention of a security officer and alert the police if necessary"]
+            }
+        }
+    },
+    "signUp": {
+        "description": "Astor Protect has designed and designed high-tech equipment to effectively ensure your safety and that of your belongings",
+        "form": {
+            "username": "Identifiant",
+            "firstName": "Prénoms",
+            "lastName": "Noms",
+            "email": "Email",
+            "phone" : "Phone",
+            "adresse": "Adress",
+            "visitor": "Visitor",
+            "technician": "Technical Service",
+            "revendeur": "Reseller account",
+            "installateur": "Installer partner account",
+            "intervention": "Intervention partner Account",
+            "station": "Agents' account of the monitoring station",
+            "bc": "B & C customer account",
+            "bb": "B & B account",
+            "enterprise": "Company name",
+            "identifiant": "Login",
+            "accountType": "Account Type",
+            "password": "Password",
+            "confirmPassword": "Repeat the password",
+            "newPassword": "New Password",
+            "lastPassword": "Previous Password",
+            "terms": [
+                "By signin up you agreed Astor's ",
+                "Terms and conditions & privacy policy"
+            ]
+        }
+    },
+    "howItWorks": {
+        "page1": {
+            "title": "How Astor Protect works?",
+            "form": {
+                "title": "My security diagnosis in 30 seconds",
+                "homeTypeLabel": "What do you want to protect?",
+                "homeType1": "Your villa",
+                "homeType2": "Your apartment",
+                "detectionLabel": " In case of event detection at your home do you prefer?",
+                "detection1": "Receive alerts and video check the cause of the trigger",
+                "detection2": "Delegate the security of your home to the remote monitoring center",
+                "internetLabel": " Is the home equipped with internet?",
+                "residenceLabel": "What is the area of ​​the residence?",
+                "residence1": "Less than 100 m2",
+                "residence2": "Between 100 m2 and 200 m2",
+                "residence3": "Between 100 m2 and 200 m2",
+                "intervenantLabel": " Do you intervene at home (Nanny, housekeeper .......) ?",
+                "cameraLabel": "Are you interested in smart smoked cameras and detectors ?",
+                "securityLabel": "Are you already equipped with a security system ?"
+            },
+            "form2": {
+                "title": "Complete your information",
+                "telephone": "Phone",
+                "sexe1": "Male",
+                "sexe2": "Female"
+            }
+        }
+    },
+    "telesurveillance": {
+        "page1": {
+            "title": "The only remote monitoring system for the home including smart cameras and smart smoke detectors.",
+            "button": "Learn More",
+            "popOver": {
+                "title": "Learn More",
+                "description": "The security of your home delegated to a remote monitoring center, and video surveillance services to remotely monitor your home and interact with your home in video and audio at any time.ASTOR PROTECT to its own remote monitoring platform for the treatment of alerts Anti-intrusion monitoring center based in Cameroon meets all the requirements of this standard which guarantees the quality of services against intrusion."
+            }
+        },
+        "page2": {
+            "column1": {
+                "title": "See, hear and talk",
+                "description": "Because it's important that you stay in control of your home day and night, Astor Protect HD cameras incorporate a microphone and a speaker to let you hear and chat with your loved ones in your home. At any time check if your alarm is active, and switch it on remotely if necessary. When at home, use privacy mode to preserve your privacy."
+            },
+            "column2": {
+                "title": "Real-time management of alerts by the central monitoring station",
+                "description": "Treatment of alerts between 30 and 80 seconds. You can leave the peace of mind! Any unusual event generates an alert at the central monitoring station 24/7 to identify the cause of the trigger: attempted break-in by a burglar, triggering the motion detector, smoke, CO2 or disconnection of surveillance cameras. As soon as an alert is received, the monitoring center views the automatic video surveillance recordings to analyze the content and react effectively. You can also decide to receive alerts sent to the monitoring center directly to your ASTOR PROTECT account."
+            },
+            "column3": {
+                "title": "Intervention of an unlimited security agent at your home",
+                "description": "Agent departures on the territory. In case of break-in or doubt, ASTOR PROTECT sends a security guard to your address to check the condition of the issues or the presence of an intruder. ASTOR PROTECT has the largest network of security agents, with several bases of departure on the territory, so you can benefit from a quick intervention of a security officer.In your absence, if the break-in of the home is proven, the guarding of the place is provided for 3 hours, the time for you to re-secure the home"
+            },
+            "column4": {
+                "title": "Your mobile application",
+                "description": "No more alarm panels! Easily find all your events in video from your application or within your customer area. The cameras are smart and know how to recognize a human, an animal and a vehicle for a personalized and intelligent detection. View, download or delete the recordings of your video surveillance very simply. Contact the monitoring center 24/7. contact with the operator of the central monitoring station at any time."
+            },
+            "column5": {
+                "title": "Smart Smoke Detector",
+                "description": "Alerts on your smartphone and 10 years of battery * to better protect your home. In case of fire, the Intelligent Smoke Detector triggers an alarm of 85 dB and sends a real-time alert to your smartphone and those of your family members, wherever you are. You can always count on your Smart Smoke Detector Astor Protect. Unlike conventional smoke detectors, the ASTOR PROTECT Intelligent Smoke Detector alerts you in real time on your smartphone in the event of a fire in your home. You can even intervene when you are not at home."
+            }
+        },
+        "page3": {
+            "step1":
+            {
+                "title": "My logbook",
+                "description": "No more alarm panels! Easily find all your events in video from your application or within your customer area. The cameras are smart and know how to recognize a human, an animal and a vehicle for a personalized and intelligent detection."
+            },
+            "step2":
+            {
+                "title": "Manage your videos",
+                "description": "View, download or delete the recordings of your CCTV very simply."
+            },
+            "step3": 
+            {
+                "title": "Contact the monitoring center 24 hours a day, 7 days a week",
+                "description": "Get in touch with the central station operator at any time."
+            }
+        },
+        "page4":["An all-inclusive subscription connected alarm system, maintenance and 24-hour remote monitoring","The speed of action in case of alarm, call control in less than 30 seconds","Security professionals intervention of an authorized security agent and alert the police in case of alarm confirmed, according to formula"]
+
+    },
+    "contactUs": {
+        "column1": ["Astor Protect is present on all known digital media","We are located at ..."],
+        "form" : {
+            "email": "Your email",
+            "subject": "Subject",
+            "username": "Name",
+            "content": "Let us know anything you want...",
+            "send" : "Send"
+        }
+    },
+    "dashboardPage": {
+    "sideBar":{
+        "tableau":{
+            "title": "Dashboard",
+            "items": ["Account Management","Users Insights"]
+        },
+        "erp":{
+            "title": "ERP Panel"
+        }
+    }
+    },
+    "clientbc": {
+        "menu": {
+            "title1": "Videos Storage space ",
+            "title2": "Subscription & Privacy",
+            "title3": "Option"
+        },
+        "video": {
+            "name": "Video Name",
+            "date": "Date",
+            "save": "Save",
+            "rename": "Rename",
+            "delete": "Delete",
+            "newname": "New Name"
+        }
+    }
+}

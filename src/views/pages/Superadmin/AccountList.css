@@ -1,0 +1,12 @@
+.add-btn {
+    background-color: rgb(226, 7, 19) !important;
+    color: white;
+    cursor: pointer !important;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+
+.action {
+    color: white !important;
+}

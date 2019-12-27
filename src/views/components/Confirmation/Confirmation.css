@@ -1,0 +1,36 @@
+
+.confirmation-modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0, 0.5);
+    z-index: 1000;
+
+}
+.confirmation-modal .content{
+    background-color: white;
+    border-radius: 5px;
+    display: block;
+    margin-top: 6rem;
+    animation: anim .3s;
+}
+
+@keyframes anim{
+    0% {
+        transform: translateY(-50%)
+    }
+    25% {
+        transform: translateY(-40%)
+    }
+    50% {
+        transform: translateY(-25%)
+    }
+    75% {
+        transform: translateY(-15%)
+    }
+    100% {
+        transform: translateY(0%)
+    }
+}
